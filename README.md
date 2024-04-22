@@ -25,6 +25,6 @@ Trained through targeted coursework and practical internships.
 - 📉 **Data Visualization**
 - 🛠️ **Database Design**
 - 📜 **SQL Query**
-![199137896-54ff9c40-5685-44ff-92a6-64f82b4fb8b3](https://github.com/divyapanseriya/divyapanseriya/assets/158155079/76171aaf-c668-4236-967d-be4e805442d4)
+
 
 
